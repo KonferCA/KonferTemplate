@@ -1,9 +1,10 @@
 ---
 name: Epic
 about: A set of features as a part of a larger group of work or subproject.
-title: "[Epic] Epic name here"
+title: "Epic name here"
 labels: epic
 assignees: ''
+type: "Epic"
 
 ---
 ## Description
